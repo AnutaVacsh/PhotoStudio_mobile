@@ -1,0 +1,47 @@
+name: flutter_progect
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  firebase_auth: ^5.0.0
+  firebase_core: ^3.0.0
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.1.0
+  image_picker: ^1.1.2
+  intl: ^0.19.0
+  latlong2: ^0.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - img/home1.jpg
+    - img/home2.png
+    - img/home3.png
+    - img/home4.png
+    - img/home5.png
+    - img/home6.png
+    - img/home7.png
+    - img/hallC70.png
+    - img/hallC80.png
+    - img/hallC90.png
+    - img/hallC100.png
+    - img/hallC150.png
+    - img/hallC170.png
+    - img/hallC190.png
+    - img/lightAcer.png
+    - img/lightAD600.png
+    - img/lightBM-19.png
+    - img/lightFM1200.png
+    - img/lightLazer.png
+    - img/lightTL120.png
+    - img/lightVL300.png
